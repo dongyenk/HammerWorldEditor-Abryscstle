@@ -6,7 +6,7 @@ Level made in Hammer World Editor for Counter Strike.
 ###     Hammer World Editor File: 
 a .vmf file that can only be properly viewed in the Hammer World Editor program
 
-###     Screenshots: 
+###     Images: 
 pictures from the level development process
 
 ###     Scriptfile: 
