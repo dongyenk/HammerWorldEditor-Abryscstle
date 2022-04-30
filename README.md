@@ -9,5 +9,8 @@ a .vmf file that can only be properly viewed in the Hammer World Editor program
 ###     Level Dev Images: 
 pictures from the level development process
 
+###     Nav Mesh Dev Images:
+pictures from improving the programming for how bots navigate the level
+
 ###     Scriptfile: 
 the script file I made for use in testing my level
